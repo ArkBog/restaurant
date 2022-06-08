@@ -1,0 +1,63 @@
+body
+{
+	background-color: #9f121f;
+}
+
+#mainmenu a
+{
+	color: #00832b;
+}
+
+
+#order
+{
+	background-color: #00832b;
+}
+#order a
+{
+	color: #9f121f;
+	font-weight: 700;
+}
+
+#mainmenu > ul > li:hover
+{
+	opacity: 0.5;
+}
+
+.foot
+{
+	width: 100%;
+	background-color: #212529;
+}
+
+.map ul
+{
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.map a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.map > ul > li:hover
+{
+	opacity: 0.4;
+}
+
+.last
+{
+	background-color: black;
+	color: #171719;
+	width: 100%;
+	text-align: center;
+}
+@media (max-width: 767px)
+{
+	#karuzela
+	{
+		display: none;
+	}
+}
