@@ -1,5 +1,7 @@
 # Restaurant
 
+[Check demo](https://arkbog.github.io/restaurant/)
+
 Wbesite for a restaurant. Done for a training.
 
 ## Table of Contents
