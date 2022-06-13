@@ -1,13 +1,21 @@
 # Restaurant
 
-[Check demo](https://arkbog.github.io/restaurant/)
+[Preview](https://arkbog.github.io/restaurant/)
 
 Wbesite for a restaurant. Done for a training.
 
 ## Table of Contents
 
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
+
+
+
+## General Information
+
+Wbesite for a restaurant. Done for a training. The project assumed the creation of a responsive website for the restaurant. The design uses Bootsrap elements such as carousel and cards. The "złóż zamowienie (place order)" tab has been marked in navbar to attract the attention of a potential customer and increase conversion.
+
 
 
 ## Technologies Used
@@ -18,6 +26,5 @@ Wbesite for a restaurant. Done for a training.
 
 
 
-
 ## Project Status
-Project is: complete.
+Project is: in progress.
